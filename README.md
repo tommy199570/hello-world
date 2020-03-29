@@ -3,4 +3,4 @@ Getting started
 
 Hi people!
 
-Tommy here, I am freshman i coding univeristy.
+Tommy here, I am freshman in coding univeristy.
